@@ -21,8 +21,7 @@ A Telegram bot that answers any questions based on the character Broc <br>
 * The start of any prompt must begin with the initial string "/brock" followed by a prompt
 * The Gemini 1.5 pro was fine tuned with the data given in "brock.jsonl"
   
-| ![Home Screen](https://github.com/lgsurith/Brock_v1-Bot/assets/117572209/cdb8d41c-ceec-410c-b30b-e628ce043958) | ![image](https://github.com/lgsurith/Brock_v1-Bot/assets/117572209/cf8fcb8f-bb0a-41a0-bc2c-5fc5f5cc626b) | ![image](![image](https://github.com/lgsurith/Brock_v1-Bot/assets/117572209/eaa5ac29-735d-494f-95ed-d64ac88457f4)
-) |
+| ![Home Screen](https://github.com/lgsurith/Brock_v1-Bot/assets/117572209/cdb8d41c-ceec-410c-b30b-e628ce043958) | ![image](https://github.com/lgsurith/Brock_v1-Bot/assets/117572209/cf8fcb8f-bb0a-41a0-bc2c-5fc5f5cc626b) | ![image](https://github.com/lgsurith/Brock_v1-Bot/assets/117572209/eaa5ac29-735d-494f-95ed-d64ac88457f4) |
 |---|---|---|
 
 
