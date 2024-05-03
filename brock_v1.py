@@ -1,7 +1,6 @@
 import os
 import io
 import logging
-import PIL.Image
 import sys
 import vertexai
 from vertexai.generative_models import GenerativeModel
