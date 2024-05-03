@@ -1,4 +1,4 @@
-# Brock_v1-Bot
+# Brock_v1-Bot 🤖
 A Telegram Bot about Brock Fine tuned with the help of Gemini 1.5 pro
 
 ## Requirements
@@ -12,6 +12,7 @@ Vertex API and Google Cloud :
   For the specific project where the fine tuning is done , the endpoints must be obtained [here](https://aistudio.google.com/app/apikey)
 * Fine Tuning : <br>
   The model can be fine tuned [here](https://console.cloud.google.com/vertex-ai/generative/language/gallery)
+* **Set up Google Cloud CLI** before running the pyscript and redirect to your project. The setup can be done by using [this](https://cloud.google.com/sdk/docs/install) link.
   
   
 ## Functionality
